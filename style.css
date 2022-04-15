@@ -1,0 +1,26 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', arial;
+  background-color: #ffffff;
+}
+.hidden {
+  display: none;
+}
+.navbar-brand {
+  margin-left: 15px;
+}
+.welcome {
+  font-family: 'Roboto', arial;
+  height: 100vh;
+}
+.read-more {
+  color: #ed1c24;
+  text-align: center;
+}
+.read-more:hover {
+  color: black;
+}
